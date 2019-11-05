@@ -1,0 +1,92 @@
+body{
+    background-color: #000000;
+    color: #34f72c;
+    font-family: 'IBM Plex Mono';
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+a:link {
+    color: #34f72c;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #34f72c;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #34f72c;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #34f72c;
+    text-decoration: none;
+}
+
+#software{
+    height: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+#img1{
+    height: 400px;
+    padding-right: 20px;
+    padding-top: 20px;
+    float:right;
+}
+
+#img2{
+    height: 400px;
+    padding-right: 20px;
+    padding-top: 20px;
+    float:right;
+}
+
+#img3{
+    height: 400px;
+    padding-right: 20px;
+    padding-top: 20px;
+    float:right;
+}
+
+#numbers{
+    padding-right: 20px;
+    padding-top: 10px;
+    float:right;
+}
+
+a img { 
+    display:none; 
+}
+
+a:hover img { 
+    display:block; 
+}
+
+sup{
+    font-size: 11pt;
+}
+
+#keyWords{
+    font-size: 9pt; 
+}
+
+#mine{
+    font-size: 10pt;
+}
+
+/*#titulo1{
+    font-size: 16pt;
+}
+
+#citacoes1{
+    font-size: 12pt;
+}
+
